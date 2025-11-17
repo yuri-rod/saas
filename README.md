@@ -2,6 +2,10 @@
 
 Easy solutions to install and access Jellyfin on your Samsung Smart TV (2015 or newer with Tizen OS).
 
+**🇧🇷 [Versão em Português / Portuguese Version](README.pt-BR.md)**
+
+**📡 Remote Installation:** Installing remotely via SSH? See the [**Remote Installation Guide (Portuguese)**](INSTALACAO_REMOTA.md)
+
 ## 🎯 Quick Start - Choose Your Method
 
 ### Method 1: Docker Automated Installer (Easiest! ⭐)
@@ -55,6 +59,21 @@ The simplest way if you just want to try Jellyfin:
 4. Login and enjoy!
 
 **Note:** This method works but has limited functionality compared to the native app.
+
+---
+
+### Method 4: Remote Installation (SSH Access)
+
+Installing remotely via SSH to someone else's computer?
+
+**📡 [Complete Remote Installation Guide (Portuguese)](INSTALACAO_REMOTA.md)**
+
+**Quick summary:**
+1. SSH into the remote machine
+2. Clone this repository
+3. Run: `./instalacao-remota.sh`
+
+The interactive script will guide you through the entire process and show you exactly what messages to send to the person at the TV!
 
 ---
 
