@@ -1,0 +1,35 @@
+# Jellyfin build artifacts
+*.wgt
+dist/
+build/
+jellyfin-tizen/
+
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Tizen Studio
+.tizen-studio/
+tizen-studio/
+*.tpk
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
