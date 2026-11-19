@@ -134,4 +134,4 @@ If you encounter issues:
 
 ## 📝 License
 
-This installer tool is provided as-is for educational purposes. Jellyfin is licensed under GPL-2.0.
+This installer toolkit is released under the [MIT License](LICENSE). Jellyfin itself is licensed under GPL-2.0.
