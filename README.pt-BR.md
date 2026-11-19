@@ -275,7 +275,7 @@ Se a instalação na Samsung TV não funcionar:
 
 ## 📄 Licença
 
-Este conjunto de ferramentas é fornecido como está para fins educacionais. Jellyfin é licenciado sob GPL-2.0.
+Este conjunto de ferramentas é distribuído sob a [Licença MIT](LICENSE). O Jellyfin é licenciado sob GPL-2.0.
 
 ---
 
